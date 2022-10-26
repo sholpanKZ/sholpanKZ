@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sholpan Zhamali
-- 👀 I’m interested in Algorithms & Data Stuctures
+- 👀 I’m interested in Algorithms & Data Structures
 - 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me sholpan.zhamali@gmail.com
 
